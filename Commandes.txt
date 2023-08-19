@@ -1,0 +1,19 @@
+Commandes Linux
+
+Mkdir + nom du dossier : permet de créer un dossier
+Touch + nom fichier : créer un fichier
+cd : retourner au répertoire principal
+cd .. : retourner en arrière
+ls : lire les documents qui se trouvent dans un repertoire
+Cat + chemin fichier : afficher un contenu sur Git
+Vim : ouvrir un fichier pour l'éditer
+i : écrire sur Git
+:x : enregistrer les modifications d'un fichier
+git checkout + nom branch : créer une branche du dossier main
+git add -A : appliquer les modifications 
+git commit -m + modification : prendre la photo d ce que j'ai modifié
+git log : avoir un historique
+git push : envoyer et télécharger dans GitHub
+git config --global : s'authentifier
+git pull : mettre à jour les modifications effectuées sur un dossier partagé de GitHub sur le terminal
+rm -rf : supprimer des dossiers/documents de manière permanente
