@@ -9,5 +9,6 @@ wq is very good if you want to save your modification a exit on vim
  && it is use to make two or more action EXAMPLE cp && copie and do this
  
 
+GWLADYS GWLADYS i hope i wrote now very good 
 
 
