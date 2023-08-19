@@ -1,0 +1,13 @@
+GILDAS
+BASICS COMMAND ON LINUX
+vim: it is use to modified a content on a  file
+mkdir -p it is use to create a directory and subdirectory directly EXAMPLE:mkdir -p house/livingroom
+ls -a it is use to list a git directory
+git branch  help us to create a branch on git 
+git checkout it is use to switchd on another branch 
+wq is very good if you want to save your modification a exit on vim 
+ && it is use to make two or more action EXAMPLE cp && copie and do this
+ 
+
+
+
